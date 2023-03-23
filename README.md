@@ -13,6 +13,11 @@ Spring Boot 기반의 게시판CRUD 웹 프로젝트
 - ** data-jpa
 - ** h2database:h2
 
+2. 기능구현
+- 로그인,로그아웃,회원가입 기능 구현 
+- 게시판 CRUD 기능 구현
+- 댓글 CRUD 기능 구현 
+- 좋아요 기능 구현 
 
 
 https://user-images.githubusercontent.com/128597230/227104111-f4a91a5e-7638-4c60-b5f3-ab7a94bce887.mp4
