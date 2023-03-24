@@ -13,7 +13,7 @@ Spring Boot 기반의 게시판CRUD 웹 프로젝트
 - ** h2database:h2
 
 운영체제 : Window / 통합개발환경(IDE) : STS4 /
-/ JDK 버전 : JDK 17 / 스프링 부트 버전 : 3.0.4
+JDK 버전 : JDK 17 / 스프링 부트 버전 : 3.0.4
 데이터 베이스 : H2 Database / 빌드 툴 : gradle / 관리 툴 : Git, GitHub
 
 2. 기능구현
