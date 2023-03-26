@@ -1,5 +1,5 @@
 # SpringBoot-Board 개인 프로젝트 
-Spring Boot 기반의 게시판CRUD 웹 프로젝트 
+Spring Boot 기반의 게시판CRUD 기능구현 개인 프로젝트 
 
 1. **프로젝트 개발 환경
 - ** Java vervion : 1.7**
