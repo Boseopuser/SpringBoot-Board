@@ -34,6 +34,9 @@ JDK 버전 : JDK 17 / 스프링 부트 버전 : 3.0.4
 - 게시판 CRUD 기능 구현
 - 댓글 CRUD 기능 구현 
 - 좋아요 기능 구현 
+- 다수의 게시글 조회에 따른 페이징 처리
+- Junit5를 이용한 테스트 코드 작성
+- H2 데이터베이스 사용
 
 
 https://user-images.githubusercontent.com/128597230/227104111-f4a91a5e-7638-4c60-b5f3-ab7a94bce887.mp4
