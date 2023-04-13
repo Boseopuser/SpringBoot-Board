@@ -14,7 +14,7 @@
 # SpringBoot-Board 개인 프로젝트 
 Spring Boot 기반의 게시판CRUD 기능구현 개인 프로젝트 
 
-1. **프로젝트 개발 환경
+1. 프로젝트 개발 환경
 
 - 운영체제 : Window / 통합개발환경(IDE) : STS4 
 - JDK 버전 : JDK 17 / 스프링 부트 버전 : 3.0.4
