@@ -39,6 +39,11 @@ Spring Boot 기반의 게시판CRUD 기능구현 개인 프로젝트
 - Junit5를 이용한 테스트 코드 작성
 - H2 데이터베이스 사용
 
+3. 추가 기능 및 업데이트
+ - 카카오 소셜 로그인 연동 Ing ~
+ - 네이버 소셜 로그인 연동 Ing ~
+ - 암호화 보안화 추후 예정
+
 
 https://user-images.githubusercontent.com/128597230/227104111-f4a91a5e-7638-4c60-b5f3-ab7a94bce887.mp4
 
